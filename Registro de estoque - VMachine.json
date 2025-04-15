@@ -1,0 +1,47 @@
+{
+    "Snickers": {
+        "preco": 3.5,
+        "codigo": "0a",
+        "quantidade": 10
+    },
+    "Amendoins": {
+        "preco": 3.0,
+        "codigo": "0b",
+        "quantidade": 10
+    },
+    "Kitkat's": {
+        "preco": 5.0,
+        "codigo": "0c",
+        "quantidade": 10
+    },
+    "Doritos": {
+        "preco": 4.5,
+        "codigo": "1a",
+        "quantidade": 10
+    },
+    "Ruffles": {
+        "preco": 4.5,
+        "codigo": "1b",
+        "quantidade": 10
+    },
+    "Jujubas": {
+        "preco": 1.5,
+        "codigo": "1c",
+        "quantidade": 10
+    },
+    "Twix's": {
+        "preco": 3.0,
+        "codigo": "2a",
+        "quantidade": 10
+    },
+    "M&M's": {
+        "preco": 4.0,
+        "codigo": "2b",
+        "quantidade": 10
+    },
+    "Mentos": {
+        "preco": 4.0,
+        "codigo": "2c",
+        "quantidade": 10
+    }
+}
